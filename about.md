@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
-study in NanJing,China
+目前在江苏南京学习
 
-learning java
+学习java后端中...
